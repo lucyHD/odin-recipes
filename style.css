@@ -1,0 +1,32 @@
+body {
+    font-family: 'Helvetica', 'Verdana', sans-serif;
+
+}
+
+.main-title {
+    text-align: center;
+}
+
+.list-recipe {
+    border: black solid 1px;
+    background-color:bisque;
+    width: max-content;
+    border-radius: 10px;
+    padding: 40px;
+    list-style-type: none;
+    margin: auto;
+}
+
+.link-recipe {
+    text-decoration: none;
+    color: black;
+}
+
+.link-recipe:visited {
+    color: grey;
+}
+
+.link-recipe:hover {
+    color: lightseagreen;
+}
+
